@@ -19,7 +19,7 @@ python app.py
 
 1. 填**关键词**和**日期**（如 `独立董事+辞职，2016-2018`）
 2. 选场景填字段（如"高管离职 → 姓名、职位、辞职原因"），点生成 Prompt
-3. 填 API Key（[DeepSeek](https://platform.deepseek.com) 充值获取，约 ¥1 可处理上千条公告）
+3. 填 API Key（[DeepSeek](https://platform.deepseek.com) 充值获取）
 4. 点 **一键运行全部**
 
 ## 内置场景
